@@ -1,16 +1,16 @@
-# bmicalculator
+# taxcalculator
 
 Making Tax Calcuator to learn more about Flutter .
 
 This is a very simple tax calculator i made to start practicing dart language with Flutter Engine  .
-the UI design is inspired by this guy from dibbble https://dribbble.com/shots/2295984-Calculator 
+the UI design is inspired by[ this guy from dibbble ](https://dribbble.com/shots/2295984-Calculator) 
 
 
 , i tried to add my touch to the design and make the app functional using some Flutter packages like : 
 
--Audio player package : https://pub.dev/packages/audioplayers 
+[-Audio player package ](https://pub.dev/packages/audioplayers)
 
--Range Slider package : https://pub.dev/packages/flutter_range_slider  
+[-Range Slider package](https://pub.dev/packages/flutter_range_slider)  
 
 ## Getting Started
 
