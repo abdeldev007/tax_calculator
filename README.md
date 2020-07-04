@@ -21,16 +21,16 @@ the UI design is inspired by[ this guy from dibbble ](https://dribbble.com/shots
 
 
 , i tried to add my touch to the design and make the app functional using some Flutter packages like : 
-<div align="center">
+
  
 [-Audio player package ](https://pub.dev/packages/audioplayers)
 
 [-Range Slider package](https://pub.dev/packages/flutter_range_slider)  
-
-                                             UI Design 
+<div align="center">
+ UI Design 
 ![alt text](https://github.com/abdeldev007/bmi_calculator/blob/master/flutter1.png)
  
-                                             THE RESULT
+ THE RESULT
 
 <img src="https://github.com/abdeldev007/bmi_calculator/blob/master/screentax.png" width="40%">
 
