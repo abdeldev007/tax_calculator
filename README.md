@@ -1,7 +1,7 @@
 # taxcalculator
 
                                              UI Design 
-![alt text](https://github.com/abdeldev007/bmi_calculator/blob/master/flutter1.png)
+![alt text](https://github.com/abdeldev007/bmi_calculator/blob/master/flutter1.png | width=48)
  
                                              THE RESULT
 ![alt text](https://github.com/abdeldev007/bmi_calculator/blob/master/screentax.png)
