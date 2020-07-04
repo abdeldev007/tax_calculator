@@ -1,5 +1,11 @@
 # taxcalculator
 
+                                             UI Design 
+![alt text](https://github.com/abdeldev007/bmi_calculator/blob/master/flutter1.png)
+ 
+                                             THE RESULT
+![alt text](https://github.com/abdeldev007/bmi_calculator/blob/master/screentax.png)
+
 Making Tax Calcuator to learn more about Flutter .
 
 This is a very simple tax calculator i made to start practicing dart language with Flutter Engine  .
