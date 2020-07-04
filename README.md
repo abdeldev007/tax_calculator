@@ -26,8 +26,11 @@ the UI design is inspired by[ this guy from dibbble ](https://dribbble.com/shots
 [-Audio player package ](https://pub.dev/packages/audioplayers)
 
 [-Range Slider package](https://pub.dev/packages/flutter_range_slider)  
+
 <div align="center">
+  
  UI Design 
+  
 ![alt text](https://github.com/abdeldev007/bmi_calculator/blob/master/flutter1.png)
  
  THE RESULT
