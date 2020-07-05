@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
   Tax Calculator is a simple project to learn more about Flutter for beginners  .
 
 This is a very simple tax calculator i made to start practicing dart language with Flutter Engine  .
-the UI design is inspired by[ this guy from dibbble ](https://dribbble.com/shots/2295984-Calculator) 
+the UI design is inspired by[ this guy from dribbble ](https://dribbble.com/shots/2295984-Calculator) 
 
 
 , i tried to add my touch to the design and make the app functional using some Flutter packages like : 
